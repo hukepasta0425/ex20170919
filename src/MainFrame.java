@@ -14,6 +14,7 @@ public class MainFrame extends Frame{
 //        this.setLocation(100,120);
 //        this.setSize(400,300);
         this.setLayout(null);
+
         this.setBackground(new Color (129, 242, 255));
         btnExit.setBackground(Color.red);
         btnAdd.setBackground(Color.green);
